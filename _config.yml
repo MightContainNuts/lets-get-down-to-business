@@ -13,21 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Jekyll Theme
-email: your-email@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Yet another Jekyll theme. It is designed for business purpose and ported by 
-  Melvin Ch'ng.
+title: Sure Stride
+logo: ../assets/logo/logo.png
+email: dean@surestride.net
+description1: "Optimize teamwork with Agile coaching. Elevate collaboration, efficiency, and innovation. Explore our services"
+description2: "Empower your team through Agile coaching. Enhance communication, adaptability, and delivery excellence. Discover how our services can drive results and unlock your team's full potential"
+description3: "Streamline workflows, reduce bottlenecks, and cultivate a culture of rapid adaptation. See how our services can revolutionize your team's approach to project management"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
-address_line: Via Ludovisi 39-45, Rome, 54267, Italy
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
-company_email: hello@LawOffice.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
+company_name: Sure Stride
+address_line: Saxony-Anhalt, Germany
+google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d145020.74077077053!2d11.943483395958914!3d51.31547400100605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a685b3a07b7fc1%3A0xf59c30c1f0e3f960!2sGeiseltalsee!5e0!3m2!1sen!2ssg!4v1699332039728!5m2!1sen!2ssg
 
 # Social Link
 facebook_link: http://www.facebook.com

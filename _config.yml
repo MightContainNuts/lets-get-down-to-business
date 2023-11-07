@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sure Stride
 logo: ../assets/logo/logo.png
+bookmark: ../assets/logo/bookmark.png
 email: dean@surestride.net
 description1: "Optimize teamwork with Agile coaching. Elevate collaboration, efficiency, and innovation. Explore our services"
 description2: "Empower your team through Agile coaching. Enhance communication, adaptability, and delivery excellence. Discover how our services can drive results and unlock your team's full potential"

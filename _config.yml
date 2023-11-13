@@ -17,9 +17,15 @@ title: Sure Stride
 logo: ../assets/logo/logo.png
 bookmark: ../assets/logo/bookmark.png
 email: dean@surestride.net
-description1: "Optimize teamwork with Agile coaching. Elevate collaboration, efficiency, and innovation. Explore our services"
-description2: "Empower your team through Agile coaching. Enhance communication, adaptability, and delivery excellence. Discover how our services can drive results and unlock your team's full potential"
-description3: "Streamline workflows, reduce bottlenecks, and cultivate a culture of rapid adaptation. See how our services can revolutionize your team's approach to project management"
+description1: "Optimize teamwork with Agile coaching.<br />
+Elevate collaboration, efficiency, and innovation.<br />
+Explore our services"
+description2: "Empower your team through Agile coaching. <br />
+Enhance communication, adaptability, and delivery excellence.<br />
+Discover how our services can drive results and unlock your team's full potential"
+description3: "Streamline workflows, reduce bottlenecks.<br />
+Cultivate a culture of rapid adaptation.<br />
+See how our services can revolutionize your team's approach to project management"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
